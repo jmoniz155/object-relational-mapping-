@@ -1,20 +1,16 @@
 # object-relational-mapping-
 
 ## Description
-This is a object relational mapping application that 
+
+This object-realtional-mapping application is built using the back end, using sequelize node.js and express. The functionality of this application is very user friendly allowing a retail company to quicky access and modify their store inventory. Which we have established extensions with folders labeled store categories, products and tags.  Within these folders and each category you are able to get all categories, products and tags for easy viewing creating, updating and deleting store inventory.   
+
 
 ![](assets/13-orm-homework-demo-01.gif)
-![](assets/13-orm-homework-demo-02.gif)
-![](assets/13-orm-homework-demo-03.gif)
-
-
-## Function
-
 
 
 ## Credits
 
-I would like to give credit to my Varsity Tutor for taking the time to help me understand MySQL2, express, sequelize and the functions of the object relational mapping E commerce back end process.
+I would like to give credit where credit is due, ofcourse to my Varsity Tutor for taking the time to help me understand MySQL2, express, sequelize and the functions of the object relational mapping back end process.
 
 ## Table of Contents
 
@@ -28,7 +24,7 @@ I would like to give credit to my Varsity Tutor for taking the time to help me u
 
 [Repository](https://github.com/jmoniz155/object-relational-mapping-)
 
-[Demo-Video]()
+[Demo-Video](https://watch.screencastify.com/v/v8ogdoRACuLcyN0jWnie)
 
 
 ## Study-Material
@@ -50,10 +46,10 @@ I would like to give credit to my Varsity Tutor for taking the time to help me u
 
 ## Features
 
-This app was built using MySql2, Node, javascript, Sequelize and Inquirer package.
+This app was built on the back end using MySql2, Node, javascript, Sequelize, the .env file and Inquirer package.
 
 ## Links
 
 [Repository](https://github.com/jmoniz155/object-relational-mapping-)
 
-[Demo-Video]()
+[Demo-Video](https://watch.screencastify.com/v/v8ogdoRACuLcyN0jWnie)
